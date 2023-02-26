@@ -1,0 +1,71 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.coupon {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.point {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.point input {
+  width: 400px;
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.point button {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.discount {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.discount_detail {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.payment_amount {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.payment_option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.option_box {
+  height: 50px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+}
+
+.option_box:hover {
+  cursor: pointer;
+}

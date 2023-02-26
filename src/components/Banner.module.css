@@ -1,0 +1,7 @@
+.banner {
+  position: absolute;
+  width: 100vw;
+  left: 0;
+  height: 400px;
+  background-color: bisque;
+}
